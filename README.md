@@ -1,7 +1,7 @@
 # Attendance_System_Android_in_JAVA
  
  It is an android app made in java with a sole purpose of storing and managing attendance records in various
- institutions and organisations.
+ institutions and organizations.
 # Screenshots and Project Video :-
   
   ![Screenshot_2022-07-19-15-27-26-395_com example androidattendancesystem](https://user-images.githubusercontent.com/52414098/200752856
